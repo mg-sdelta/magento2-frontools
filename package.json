@@ -67,8 +67,5 @@
     "svg": "gulp svg",
     "watch": "gulp watch",
     "test": "./node_modules/eslint/bin/eslint.js *.js helper/*.js task/*.js"
-  },
-  "engines": {
-    "node": ">=8.9.0 <11.0.0"
   }
 }
